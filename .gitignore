@@ -7,6 +7,10 @@
 /public/bundles/
 /var/
 /vendor/
+/.env.test
+.env.test
+plan.md
+/plan.md
 ###< symfony/framework-bundle ###
 
 ###> phpunit/phpunit ###
